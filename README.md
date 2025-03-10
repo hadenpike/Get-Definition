@@ -17,7 +17,7 @@ Import-Module -Name /path/to/Get-Definition
 
 ## Setup
 
-1. Go to ()(https://developer.wordnik.com) and sign up for an API key.
+1. Go to https://developer.wordnik.com and sign up for an API key.
 2. Create the environment variable WORDNIK_API_KEY with the API key as the value.
 3. To make PowerShell see the new environment variable, either restart it or run
 ```powershell
